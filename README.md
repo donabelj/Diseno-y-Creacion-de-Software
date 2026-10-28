@@ -5,4 +5,5 @@ Este repositorio es para trabajar las practicas del modulo de aprendizaje de git
 
 1.- Conceptos fundamentales de sistemas de control de versiones.
 2.- Comandos basicos de Git.
-esto es una edicion para porbar hithub
+esto es una edicion para probar github
+testeando los cambios en el repositorio para verificar si pide token de nuevo
